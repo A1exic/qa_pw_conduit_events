@@ -1,4 +1,4 @@
-import { BaseComponent } from '../BaseComponent';
+import { BaseComponent } from '../../components/BaseComponent';
 import { expect } from '../../../common/helpers/pw';
 import { ROUTES } from '../../../api/constants/apiRoutes';
 

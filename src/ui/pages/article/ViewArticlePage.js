@@ -1,7 +1,7 @@
 import { expect } from '../../../common/helpers/pw';
 import { BasePage } from '../BasePage';
 import { ArticleHeader } from '../../components/article/ArticleHeader';
-import { CommentSection } from '../../components/article/CommentSection';
+import { CommentSection } from '../../actions/articles/CommentSection';
 
 export class ViewArticlePage extends BasePage {
   articleId;
